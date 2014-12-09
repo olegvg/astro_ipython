@@ -1,5 +1,5 @@
 # Astronomical IPython notebook
-Currently here are calculations for analemma, daytime & zenith.
+Currently here are calculations of analemma, daytime & zenith.
 
 ## Analemma
 Notebook is [here](analemma.ipynb). Visualisation is [here](http://nbviewer.ipython.org/github/olegvg/astro_ipython/blob/master/analemma.ipynb).
